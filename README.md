@@ -1,3 +1,3 @@
 # GPT
 
-Simple implementation of a "Generative Pretrained Transformer" with an Orwellian training set. I have implemented Jiachen Zhu's "Dynamic Tanh" for fun.
+Simple implementation of the Transformer architecture with an Orwellian training set. I have implemented Jiachen Zhu's "Dynamic Tanh" for fun.
